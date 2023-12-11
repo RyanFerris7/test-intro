@@ -1,9 +1,16 @@
 # test-intro
 
 <html>
+
+<head>
+
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+</head>
+
+<body>
+
 <p>Hello World!</p>
-  <p>I am an edit!</p>
-  <p> I am an edit from the OTHER SIDE. </p>
 </html>
 
 <!--
