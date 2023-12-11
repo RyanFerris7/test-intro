@@ -11,10 +11,15 @@
 <body>
 
 <p>Hello World!</p>
-
-<p>This paragraph is cool. And I am an edit.</p>
-
-
-</body>
-
 </html>
+
+<!--
+gitpod.io/# 
+1. Put this in front of your github link. 
+
+git add .
+2. This sort of saves the file(?). 
+
+git commit -m "add index.html"
+3. This pushes the file back to GitHub. 
+--> 
